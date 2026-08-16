@@ -1,18 +1,29 @@
+# Environment & Infrastructure
 jupyter
+ipython
+psutil
+
+# Data ingestion and manipulation
 numpy
 pandas
 xarray
+cftime
 dask
 distributed
-psutil
-cartopy
 netCDF4
 h5netcdf
 cfgrib
+eccodes
 regionmask
+
+# Statistical modeling and machine learning
 scipy
-statsmodels
 scikit-learn
+statsmodels
 ruptures
+
+# Visualization
 matplotlib
-ipython
+cartopy
+imageio
+imageio-ffmpeg
